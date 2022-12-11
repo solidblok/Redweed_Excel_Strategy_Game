@@ -1,5 +1,6 @@
 v97:
 
-Game fully playable
+Game fully playable but does not autorun
 Text displayed still has to be checked
 Range code needs to be expanded to include worksheet name
+Add note to readme file about alert message after downloading and enabling macros
